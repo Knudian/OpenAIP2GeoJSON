@@ -3,3 +3,7 @@
 node_modules/
 node_modules*/
 npm-debug.log
+
+# ignore input and output folder contents.
+output/*
+input/*

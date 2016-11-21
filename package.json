@@ -16,5 +16,8 @@
     "request": "^2.78.0",
     "xml2js": "^0.4.17"
   },
-  "repository": ""
+  "repository": {
+      "type": "git",
+      "url": "git@github.com:Knudian/OpenAIP2GeoJSON.git"
+  }
 }

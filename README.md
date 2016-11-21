@@ -4,7 +4,7 @@ This little script look for files from [OpenAIP](http://www.openaip.net) in the 
 
 ## TODO
 - [x] parser for .aip files
-- [ ] parser for .cub files
+- [ ] parser for .cup files
 - [ ] parser for .dat files
 - [ ] ask for input/output directories
 - [ ] a better "check duplicates" method
@@ -20,3 +20,6 @@ Then run it with
 ```bash
 node index.js
 ```
+
+The parser will then look into the ```input``` folder and parse all extensions readable by the script.
+Your GeoJSON files will be exported into the ```output``` folder.
