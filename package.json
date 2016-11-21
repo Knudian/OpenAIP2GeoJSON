@@ -1,0 +1,20 @@
+{
+  "name": "openaip2geojson",
+  "version": "1.0.0",
+  "description": "A simple parser to transform OpenAIP (.aip) files into Geojson files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Knudian",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.1-security",
+    "geojson": "^0.4.0",
+    "q": "^1.4.1",
+    "request": "^2.78.0",
+    "xml2js": "^0.4.17"
+  },
+  "repository": ""
+}

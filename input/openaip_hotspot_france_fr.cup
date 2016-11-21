@@ -1,0 +1,53 @@
+***
+*
+*  Exported on: 18.11.2016
+*  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
+*  not to be used for commercial purposes. For more information on commercial licensing visit
+*  
+*  http://www.openaip.net/commercial-licensing
+*  
+*  openAIP data is not certified and must not be used for primary navigation or flight planning.
+*  NEVER RELY ON OPENAIP DATA. openAIP data contains errors. Using openAIP data may
+*  result in serious injury or death, use at your own risk!
+*  
+*  OPENAIP OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND
+*  CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION,
+*  WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR
+*  THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS,
+*  WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED
+*  WARRANTIES, SO THIS EXCLUSION MAY NOT APPLY TO YOU.
+*  
+*  EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL OPENAIP BE LIABLE TO YOU ON
+*  ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES
+*  ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF OPENAIP HAS BEEN ADVISED OF THE
+*  POSSIBILITY OF SUCH DAMAGES.
+*
+***
+
+name,country,lat,lon,elev,desc
+"Beynes","BEYNE",FR,4358.128N,00614.861E,1573.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Carton","CARTO",FR,4410.592N,00628.159E,1932.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Chapeau de Gendarme","CHAPE",FR,4420.290N,00639.662E,2535.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Cheval Blanc","CHEVA",FR,4407.175N,00625.284E,2239.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Coupe","COUPE",FR,4401.618N,00619.022E,1555.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Crête de Leman (Bleyeul)","CRêT",FR,4411.616N,00617.662E,1424.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Crête de Serres","CRêT",FR,4357.750N,00633.380E,1620.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Crête du Teillon","CRêT",FR,4350.671N,00636.109E,1869.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Crêtes de Peyrolle","CRêT",FR,4456.500N,00638.633E,2609.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Dormillouse","DORMI",FR,4424.560N,00623.018E,2410.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Grand Bérard","GRAND",FR,4426.105N,00639.240E,2746.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Grand Cheval de Bois","GRAND",FR,4417.424N,00638.251E,2762.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Gréolières","GRéO",FR,4348.057N,00657.929E,1000.0m,1,,,"","Hotspot, Reliability 65%, nearly constant"
+"Marcelly","MARCE",FR,4607.697N,00634.394E,1980.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Montdenier","MONTD",FR,4353.938N,00615.149E,1667.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Mont Guillaume","MONT ",FR,4435.227N,00625.943E,2478.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Morgon","MORGO",FR,4429.203N,00623.951E,1961.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Mte. de la Grisonnière","MTE. ",FR,4415.052N,00623.889E,1978.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Pente de la chapelle (Challes)","PENTE",FR,4533.036N,00559.800E,700.0m,1,,,"","Hotspot, Reliability 65%, nearly constant"
+"Prachaval","PRACH",FR,4441.716N,00639.751E,2176.0m,1,,,"","Hotspot, Reliability 65%, scheduled interval"
+"Simmonet des Graux","SIMMO",FR,4413.047N,00639.698E,2335.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Tête d'Amont","TêTE",FR,4451.123N,00632.041E,2758.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Tête de Lucy","TêTE",FR,4436.624N,00623.147E,2598.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Tête de Siguret","TêTE",FR,4426.142N,00646.337E,2558.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"
+"Tête du Peyron","TêTE",FR,4446.410N,00637.098E,2520.0m,1,,,"","Hotspot, Reliability 65%, scheduled interval"
+"Vachière","VACHI",FR,4411.920N,00629.725E,1919.0m,1,,,"","Hotspot, Reliability 65%, irregular interval"

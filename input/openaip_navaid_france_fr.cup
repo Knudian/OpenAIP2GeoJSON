@@ -1,0 +1,110 @@
+***
+*
+*  Exported on: 18.11.2016
+*  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
+*  not to be used for commercial purposes. For more information on commercial licensing visit
+*  
+*  http://www.openaip.net/commercial-licensing
+*  
+*  openAIP data is not certified and must not be used for primary navigation or flight planning.
+*  NEVER RELY ON OPENAIP DATA. openAIP data contains errors. Using openAIP data may
+*  result in serious injury or death, use at your own risk!
+*  
+*  OPENAIP OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND
+*  CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION,
+*  WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR
+*  THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS,
+*  WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED
+*  WARRANTIES, SO THIS EXCLUSION MAY NOT APPLY TO YOU.
+*  
+*  EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL OPENAIP BE LIABLE TO YOU ON
+*  ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES
+*  ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF OPENAIP HAS BEEN ADVISED OF THE
+*  POSSIBILITY OF SUCH DAMAGES.
+*
+***
+
+name,country,lat,lon,elev,desc
+"ABBEVILLE","ABBEV",FR,5008.117N,00151.283E,68.0m,1,,,"","Navaid, ID ABB, Frequency 108.45/21Y, Range 60 NM, Magnetic declination -0.31475, Aligned to true north FALSE"
+"AGEN-GAUDONVILLE","AGEN-",FR,4353.267N,00052.367E,265.0m,1,,,"","Navaid, ID AGN, Frequency 114.8/95X, Range 100 NM, Magnetic declination -0.12077, Aligned to true north FALSE"
+"AJACCIO-COTI CHIAVARI","AJACC",FR,4146.233N,00846.483E,628.0m,1,,,"","Navaid, ID AJO, Frequency 114.8/95X, Range 200 NM, Magnetic declination 1.87235, Aligned to true north FALSE"
+"AMBERIEU","AMBER",FR,4559.317N,00519.883E,244.0m,1,,,"","Navaid, ID AMU, Frequency /110X, Range 120 NM, Magnetic declination 1.01494, Aligned to true north FALSE"
+"AMBOISE","AMBOI",FR,4725.733N,00103.867E,110.0m,1,,,"","Navaid, ID AMB, Frequency 113.7/84X, Range 80 NM, Magnetic declination -0.30056, Aligned to true north FALSE"
+"AMBOISE","AMBOI",FR,4725.083N,00102.467E,106.0m,1,,,"","Navaid, ID AMB, Frequency 341/84X, Range 50 NM, Magnetic declination -0.30598, Aligned to true north FALSE"
+"ANGERS","ANGER",FR,4732.217N,00051.117W,86.0m,1,,,"","Navaid, ID ANG, Frequency 113/84X, Range 80 NM, Magnetic declination -0.37491, Aligned to true north FALSE"
+"AVIGNON CAUMONT","AVIGN",FR,4354.500N,00454.317E,33.0m,1,,,"","Navaid, ID CM, Frequency 369/84X, Range 20 NM, Magnetic declination 0.96633, Aligned to true north FALSE"
+"AVIGNON PUJAUT","AVIGN",FR,4359.717N,00444.783E,44.0m,1,,,"","Navaid, ID AVN, Frequency 114.6/93X, Range 60 NM, Magnetic declination 0.92323, Aligned to true north FALSE"
+"AVORD","AVORD",FR,4703.483N,00237.783E,169.0m,1,,,"","Navaid, ID AVD, Frequency /43X, Range  NM, Magnetic declination 0.49525, Aligned to true north FALSE"
+"AVORD","AVORD",FR,4707.233N,00247.967E,207.0m,1,,,"","Navaid, ID AVD, Frequency 288.500/43X, Range 20 NM, Magnetic declination 0.5408, Aligned to true north FALSE"
+"BALE NORTH","BALE ",FR,4739.702N,00728.746E,252.0m,1,,,"","Navaid, ID BN, Frequency 353/43X, Range  NM, Magnetic declination 1.89404, Aligned to true north FALSE"
+"BALE SOUTH","BALE ",FR,4734.782N,00732.178E,268.0m,1,,,"","Navaid, ID BS, Frequency 376/43X, Range  NM, Magnetic declination , Aligned to true north FALSE"
+"BASLE/MULHOUSE","BASLE",FR,4737.967N,00729.967E,256.0m,1,,,"","Navaid, ID BLM, Frequency 117.45/43X, Range 60 NM, Magnetic declination 1.40285, Aligned to true north FALSE"
+"BASTIA PORETTA","BASTI",FR,4234.417N,00928.483E,2.0m,1,,,"","Navaid, ID BTA, Frequency 114.15/88Y, Range 80 NM, Magnetic declination 2.05495, Aligned to true north FALSE"
+"BIARRITZ BAYONNE ANGLET","BIARR",FR,4328.000N,00130.617W,70.0m,1,,,"","Navaid, ID BTZ, Frequency 114.15/88Y, Range 60 NM, Magnetic declination -0.76625, Aligned to true north FALSE"
+"BORDEAUX MERIGNAC","BORDE",FR,4449.617N,00043.267W,49.0m,1,,,"","Navaid, ID BMC, Frequency 113.75/84Y, Range 100 NM, Magnetic declination -0.62189, Aligned to true north FALSE"
+"BOULOGNE SUR MER","BOULO",FR,5037.483N,00154.433E,168.0m,1,,,"","Navaid, ID BNE, Frequency 113.8/84Y, Range 70 NM, Magnetic declination -0.27113, Aligned to true north FALSE"
+"BOURSONNE","BOURS",FR,4911.300N,00303.400E,146.0m,1,,,"","Navaid, ID BSN, Frequency 114.85/95Y, Range 60 NM, Magnetic declination 0.2179, Aligned to true north FALSE"
+"BRAY SUR SEINE","BRAY ",FR,4824.417N,00317.683E,78.0m,1,,,"","Navaid, ID BRY, Frequency 114.1/88X, Range 60 NM, Magnetic declination 0.3416, Aligned to true north FALSE"
+"BREST BRETAGNE","BREST",FR,4828.650N,00417.133W,111.0m,1,,,"","Navaid, ID GU, Frequency 338/88X, Range 25 NM, Magnetic declination -3, Aligned to true north FALSE"
+"BREST BRETAGNE","BREST",FR,4826.667N,00424.983W,93.0m,1,,,"","Navaid, ID BGP, Frequency 387/88X, Range 25 NM, Magnetic declination -3, Aligned to true north FALSE"
+"CAEN CARPIQUET","CAEN ",FR,4910.400N,00027.317W,74.0m,1,,,"","Navaid, ID CAN, Frequency 114.45/88X, Range 80 NM, Magnetic declination -0.92415, Aligned to true north FALSE"
+"CALVI SAINTE CATHERINE","CALVI",FR,4234.617N,00848.400E,8.0m,1,,,"","Navaid, ID CV, Frequency 375/88X, Range 25 NM, Magnetic declination 1.91392, Aligned to true north FALSE"
+"CAMBRAI EPINOY","CAMBR",FR,5013.683N,00309.083E,67.0m,1,,,"","Navaid, ID CMB, Frequency 112.6/73X, Range 80 NM, Magnetic declination 0.17028, Aligned to true north FALSE"
+"CANNES TANNERON","CANNE",FR,4333.617N,00652.250E,481.0m,1,,,"","Navaid, ID CNM, Frequency 111.4/73X, Range 40 NM, Magnetic declination 1.4767, Aligned to true north FALSE"
+"CHAMBERY","CHAMB",FR,4552.913N,00545.438E,1432.0m,1,,,"","Navaid, ID CBY, Frequency 115.4/102Y, Range  NM, Magnetic declination 1.10301, Aligned to true north FALSE"
+"CHAMBERY AIX LES BAINS","CHAMB",FR,4535.533N,00553.017E,252.0m,1,,,"","Navaid, ID CH, Frequency 346/102Y, Range 25 NM, Magnetic declination 1.38149, Aligned to true north FALSE"
+"CHARTRES LA LOUPE","CHART",FR,4828.800N,00059.217E,213.0m,1,,,"","Navaid, ID CHW, Frequency 115.2/99X, Range 100 NM, Magnetic declination -0.38167, Aligned to true north FALSE"
+"CHATEAUDUN","CHATE",FR,4803.350N,00122.517E,126.0m,1,,,"","Navaid, ID CHN, Frequency /39X, Range 40 NM, Magnetic declination -0.22306, Aligned to true north FALSE"
+"CHATEAUDUN","CHATE",FR,4803.550N,00123.217E,126.0m,1,,,"","Navaid, ID CAD, Frequency 115.95/106Y, Range 80 NM, Magnetic declination -0.21992, Aligned to true north FALSE"
+"CHATEAUDUN","CHATE",FR,4803.800N,00121.817E,130.0m,1,,,"","Navaid, ID CDN, Frequency 359.5/106Y, Range 50 NM, Magnetic declination -0.22934, Aligned to true north FALSE"
+"CHATEAUROUX DEOLS","CHATE",FR,4656.200N,00148.067E,165.0m,1,,,"","Navaid, ID CTX, Frequency 428/106Y, Range 50 NM, Magnetic declination -0.01078, Aligned to true north FALSE"
+"CHATILLON SUR MARNE","CHATI",FR,4908.267N,00334.667E,195.0m,1,,,"","Navaid, ID CTL, Frequency 117.6/123X, Range 70 NM, Magnetic declination 0.38442, Aligned to true north FALSE"
+"CLERMONT FERRAND AUVERGNE","CLERM",FR,4547.250N,00311.533E,321.0m,1,,,"","Navaid, ID CFA, Frequency 114.35/90Y, Range 100 NM, Magnetic declination 0.46249, Aligned to true north FALSE"
+"COGNAC CHATEAUBERNARD","COGNA",FR,4539.567N,00018.700W,25.0m,1,,,"","Navaid, ID CNA, Frequency 114.65/93Y, Range 100 NM, Magnetic declination -0.55744, Aligned to true north FALSE"
+"COGNAC CHATEAUBERNARD","COGNA",FR,4540.167N,00018.367W,33.0m,1,,,"","Navaid, ID CGC, Frequency 354/93Y, Range 75 NM, Magnetic declination -0.5582, Aligned to true north FALSE"
+"COGNAC CHATEAUBERNARD","COGNA",FR,4539.683N,00018.467W,28.0m,1,,,"","Navaid, ID CGC, Frequency /109X, Range 160 NM, Magnetic declination -0.55744, Aligned to true north FALSE"
+"COULOMMIERS VOISINS","COULO",FR,4850.683N,00300.833E,139.0m,1,,,"","Navaid, ID CLM, Frequency 112.9/76X, Range 60 NM, Magnetic declination 0.22945, Aligned to true north FALSE"
+"DEAUVILLE NORMANDIE","DEAUV",FR,4918.650N,00018.767E,145.0m,1,,,"","Navaid, ID DVL, Frequency 110.2/76X, Range 60 NM, Magnetic declination -0.67814, Aligned to true north FALSE"
+"DIEPPE","DIEPP",FR,4955.517N,00110.233E,104.0m,1,,,"","Navaid, ID DPE, Frequency 115.8/76X, Range 40 NM, Magnetic declination -0.45175, Aligned to true north FALSE"
+"DIGNE","DIGNE",FR,4359.483N,00606.050E,913.0m,1,,,"","Navaid, ID DGN, Frequency 113.85/76X, Range 90 NM, Magnetic declination 1.28828, Aligned to true north FALSE"
+"DIJON-LONGVIC","DIJON",FR,4716.317N,00505.500E,216.0m,1,,,"","Navaid, ID DIJ, Frequency /82X, Range 60 NM, Magnetic declination 0.93049, Aligned to true north FALSE"
+"DINARD PLEURTUIT SAINT MALO","DINAR",FR,4835.167N,00204.933W,63.0m,1,,,"","Navaid, ID DIN, Frequency 114.300/90X, Range 80 NM, Magnetic declination -2, Aligned to true north FALSE"
+"DINARD PLEURTUIT SAINT MALO","DINAR",FR,4828.917N,00203.167W,62.0m,1,,,"","Navaid, ID DR, Frequency 390/90X, Range 25 NM, Magnetic declination -2, Aligned to true north FALSE"
+"EPERNON","EPERN",FR,4837.550N,00139.400E,158.0m,1,,,"","Navaid, ID EPR, Frequency 115.65/103Y, Range 60 NM, Magnetic declination -0.17835, Aligned to true north FALSE"
+"EPINAL MIRECOURT","EPINA",FR,4819.067N,00603.567E,343.0m,1,,,"","Navaid, ID EPL, Frequency 113/103Y, Range 60 NM, Magnetic declination 1.16441, Aligned to true north FALSE"
+"EVREUX FAUVILLE","EVREU",FR,4901.717N,00112.850E,136.0m,1,,,"","Navaid, ID EVX, Frequency /71X, Range  NM, Magnetic declination -0.35649, Aligned to true north FALSE"
+"EVREUX FAUVILLE","EVREU",FR,4901.717N,00112.850E,136.0m,1,,,"","Navaid, ID EVX, Frequency 112.4/71X, Range 60 NM, Magnetic declination -0.35649, Aligned to true north FALSE"
+"GAILLAC-CASTELNAU DE MONTMIRAIL","GAILL",FR,4357.250N,00149.450E,295.0m,1,,,"","Navaid, ID GAI, Frequency 115.8/71X, Range 100 NM, Magnetic declination 0.17109, Aligned to true north FALSE"
+"GROSTENQUIN","GROST",FR,4859.183N,00642.967E,309.0m,1,,,"","Navaid, ID GTQ, Frequency 111.25/49Y, Range 60 NM, Magnetic declination 1.33061, Aligned to true north FALSE"
+"GUISCRIFF SCAER","GUISC",FR,4809.600N,00336.150W,227.0m,1,,,"","Navaid, ID GSG, Frequency 395/49Y, Range 25 NM, Magnetic declination -3, Aligned to true north FALSE"
+"HERICOURT","HERIC",FR,4733.700N,00643.933E,399.0m,1,,,"","Navaid, ID HR, Frequency 289/49Y, Range 30 NM, Magnetic declination 1.37482, Aligned to true north FALSE"
+"ISTRES LE TUBE","ISTRE",FR,4330.017N,00456.400E,15.0m,1,,,"","Navaid, ID ITS, Frequency 112.700/74X, Range  NM, Magnetic declination 1, Aligned to true north FALSE"
+"L'AIGLE","L'AIG",FR,4847.433N,00031.817E,290.0m,1,,,"","Navaid, ID LGL, Frequency 115.000/74X, Range  NM, Magnetic declination -2, Aligned to true north FALSE"
+"LA CHATRE","LA CH",FR,4641.483N,00208.967E,269.0m,1,,,"","Navaid, ID LCA, Frequency 112.1/74X, Range  NM, Magnetic declination 0.3783, Aligned to true north FALSE"
+"LANNION","LANNI",FR,4843.150N,00318.467W,71.0m,1,,,"","Navaid, ID LN, Frequency 345/74X, Range 50 NM, Magnetic declination -3, Aligned to true north FALSE"
+"LANVEOC POULMIC","LANVE",FR,4817.017N,00425.933W,76.0m,1,,,"","Navaid, ID BST, Frequency 428/74X, Range 50 NM, Magnetic declination -3, Aligned to true north FALSE"
+"LA ROCHE SUR YON LES AJONCS","LA RO",FR,4641.350N,00117.183W,93.0m,1,,,"","Navaid, ID YN, Frequency 334/74X, Range  NM, Magnetic declination -1, Aligned to true north FALSE"
+"LA TOUR DU PIN","LA TO",FR,4529.340N,00526.344E,641.0m,1,,,"","Navaid, ID LTP, Frequency 115.55/74X, Range  NM, Magnetic declination 1.0302, Aligned to true north FALSE"
+"LE LUC LE CANNET","LE LU",FR,4322.967N,00615.350E,303.0m,1,,,"","Navaid, ID LUC, Frequency 113.0/77X, Range  NM, Magnetic declination 1, Aligned to true north FALSE"
+"LEMBEYE","LEMBE",FR,4328.000N,00001.100W,293.0m,1,,,"","Navaid, ID LMB, Frequency 111.8/77X, Range  NM, Magnetic declination -1, Aligned to true north FALSE"
+"LILLE LESQUIN","LILLE",FR,4328.000N,00001.100W,293.0m,1,,,"","Navaid, ID LEQ, Frequency 109.0/27X, Range  NM, Magnetic declination -0.06258, Aligned to true north FALSE"
+"LIMOGES","LIMOG",FR,4548.950N,00101.533E,417.0m,1,,,"","Navaid, ID LMG, Frequency 114.5/92X, Range  NM, Magnetic declination -1, Aligned to true north FALSE"
+"LORIENT LANN BIHOUE","LORIE",FR,4745.783N,00326.433W,44.0m,1,,,"","Navaid, ID LOR, Frequency 359/92X, Range 50 NM, Magnetic declination -2, Aligned to true north FALSE"
+"LUXEUIL","LUXEU",FR,4741.300N,00617.733E,316.0m,1,,,"","Navaid, ID LUL, Frequency 117.1/92X, Range  NM, Magnetic declination 1, Aligned to true north FALSE"
+"LYON SAINT EXUPERY","LYON ",FR,4544.733N,00505.433E,234.0m,1,,,"","Navaid, ID LSE, Frequency 114.75/94Y, Range  NM, Magnetic declination 1.22442, Aligned to true north FALSE"
+"MELUN","MELUN",FR,4827.350N,00248.800E,102.0m,1,,,"","Navaid, ID MLN, Frequency 113.6/83X, Range 40 NM, Magnetic declination 0.23263, Aligned to true north FALSE"
+"MONTMEDY-DUN SUR MEUSE","MONTM",FR,4923.475N,00523.475E,190.0m,1,,,"","Navaid, ID MMD, Frequency 109.4/83X, Range 40 NM, Magnetic declination 1.12985, Aligned to true north FALSE"
+"MORLAIX PLOUJEAN","MORLA",FR,4838.800N,00345.767W,120.0m,1,,,"","Navaid, ID MLX, Frequency 371/83X, Range 25 NM, Magnetic declination -3, Aligned to true north FALSE"
+"NANTES ATLANTIQUE","NANTE",FR,4703.167N,00141.267W,1.0m,1,,,"","Navaid, ID GL, Frequency 369/83X, Range 25 NM, Magnetic declination -1, Aligned to true north FALSE"
+"NANTES ATLANTIQUE","NANTE",FR,4709.650N,00136.767W,25.0m,1,,,"","Navaid, ID NTS, Frequency 115.500/102X, Range 150 NM, Magnetic declination -1, Aligned to true north FALSE"
+"PITHIVIERS","PITHI",FR,4809.333N,00215.883E,121.0m,1,,,"","Navaid, ID PTV, Frequency 116.5/102X, Range 100 NM, Magnetic declination 0.08418, Aligned to true north FALSE"
+"PONTOISE","PONTO",FR,4906.333N,00202.750E,95.0m,1,,,"","Navaid, ID PON, Frequency 111.6/102X, Range  NM, Magnetic declination 0.135, Aligned to true north FALSE"
+"QUIMPER PLUGUFFAN","QUIMP",FR,4757.433N,00411.083W,84.0m,1,,,"","Navaid, ID QPR, Frequency 117.800/125X, Range 150 NM, Magnetic declination -3, Aligned to true north FALSE"
+"QUIMPER PLUGUFFAN","QUIMP",FR,4758.083N,00359.900W,101.0m,1,,,"","Navaid, ID RQ, Frequency 380/125X, Range 25 NM, Magnetic declination -3, Aligned to true north FALSE"
+"QUIMPER PLUGUFFAN","QUIMP",FR,4758.083N,00359.900W,101.0m,1,,,"","Navaid, ID RQ, Frequency 380/125X, Range 25 NM, Magnetic declination -3, Aligned to true north FALSE"
+"RENNES SAINT JACQUES","RENNE",FR,4803.183N,00135.067W,55.0m,1,,,"","Navaid, ID RS, Frequency 349/125X, Range 25 NM, Magnetic declination -2, Aligned to true north FALSE"
+"RENNES SAINT JACQUES","RENNE",FR,4804.150N,00144.500W,30.0m,1,,,"","Navaid, ID REN, Frequency 109.250/29Y, Range 150 NM, Magnetic declination -2, Aligned to true north FALSE"
+"SAINT BRIEUC ARMOR","SAINT",FR,4834.050N,00246.950W,67.0m,1,,,"","Navaid, ID SB, Frequency 353/29Y, Range 35 NM, Magnetic declination -2, Aligned to true north FALSE"
+"SAINT EXUPERY","SAINT",FR,4544.730N,00505.435E,234.0m,1,,,"","Navaid, ID LSE, Frequency 114.75/29Y, Range  NM, Magnetic declination 0.92899, Aligned to true north FALSE"
+"SAINT NAZAIRE MONTOIR","SAINT",FR,4720.017N,00202.667W,2.0m,1,,,"","Navaid, ID MT, Frequency 398/29Y, Range 50 NM, Magnetic declination -1, Aligned to true north FALSE"
+"VANNES MEUCON","VANNE",FR,4746.150N,00239.683W,75.0m,1,,,"","Navaid, ID VA, Frequency 342/29Y, Range 25 NM, Magnetic declination -1, Aligned to true north FALSE"

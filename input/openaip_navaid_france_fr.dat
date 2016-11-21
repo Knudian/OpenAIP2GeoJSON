@@ -1,0 +1,116 @@
+***
+*
+*  Exported on: 18.11.2016
+*  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
+*  not to be used for commercial purposes. For more information on commercial licensing visit
+*  
+*  http://www.openaip.net/commercial-licensing
+*  
+*  openAIP data is not certified and must not be used for primary navigation or flight planning.
+*  NEVER RELY ON OPENAIP DATA. openAIP data contains errors. Using openAIP data may
+*  result in serious injury or death, use at your own risk!
+*  
+*  OPENAIP OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND
+*  CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION,
+*  WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR
+*  THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS,
+*  WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED
+*  WARRANTIES, SO THIS EXCLUSION MAY NOT APPLY TO YOU.
+*  
+*  EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL OPENAIP BE LIABLE TO YOU ON
+*  ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES
+*  ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF OPENAIP HAS BEEN ADVISED OF THE
+*  POSSIBILITY OF SUCH DAMAGES.
+*
+***
+
+**************************
+*
+* OPENAIP NAVAIDS EXPORT
+*
+* VERSION= 1371698
+*
+**************************
+1,50:08:07N,01:51:17E,68.0M,T,ABBEVILLE,Navaid|ID:ABB|Frequency:108.45/21Y|Range:60 NM |Magnetic declination:-0.31475|Aligned to true north:FALSE
+2,43:53:16N,00:52:22E,265.0M,T,AGEN-GAUDONVILLE,Navaid|ID:AGN|Frequency:114.8/95X|Range:100 NM |Magnetic declination:-0.12077|Aligned to true north:FALSE
+3,41:46:14N,08:46:29E,628.0M,T,AJACCIO-COTI CHIAVARI,Navaid|ID:AJO|Frequency:114.8/95X|Range:200 NM |Magnetic declination:1.87235|Aligned to true north:FALSE
+4,45:59:19N,05:19:53E,244.0M,T,AMBERIEU,Navaid|ID:AMU|Frequency:/110X|Range:120 NM |Magnetic declination:1.01494|Aligned to true north:FALSE
+5,47:25:44N,01:03:52E,110.0M,T,AMBOISE,Navaid|ID:AMB|Frequency:113.7/84X|Range:80 NM |Magnetic declination:-0.30056|Aligned to true north:FALSE
+6,47:25:05N,01:02:28E,106.0M,T,AMBOISE,Navaid|ID:AMB|Frequency:341/|Range:50 NM |Magnetic declination:-0.30598|Aligned to true north:FALSE
+7,47:32:13N,00:51:07W,86.0M,T,ANGERS,Navaid|ID:ANG|Frequency:113/|Range:80 NM |Magnetic declination:-0.37491|Aligned to true north:FALSE
+8,43:54:30N,04:54:19E,33.0M,T,AVIGNON CAUMONT,Navaid|ID:CM|Frequency:369/|Range:20 NM |Magnetic declination:0.96633|Aligned to true north:FALSE
+9,43:59:43N,04:44:47E,44.0M,T,AVIGNON PUJAUT,Navaid|ID:AVN|Frequency:114.6/93X|Range:60 NM |Magnetic declination:0.92323|Aligned to true north:FALSE
+10,47:03:29N,02:37:47E,169.0M,T,AVORD,Navaid|ID:AVD|Frequency:/43X|Range: NM |Magnetic declination:0.49525|Aligned to true north:FALSE
+11,47:07:14N,02:47:58E,207.0M,T,AVORD,Navaid|ID:AVD|Frequency:288.500/|Range:20 NM |Magnetic declination:0.5408|Aligned to true north:FALSE
+12,47:39:42N,07:28:45E,252.0M,T,BALE NORTH,Navaid|ID:BN|Frequency:353/|Range: NM |Magnetic declination:1.89404|Aligned to true north:FALSE
+13,47:34:47N,07:32:11E,268.0M,T,BALE SOUTH,Navaid|ID:BS|Frequency:376/|Range: NM |Magnetic declination:|Aligned to true north:FALSE
+14,47:37:58N,07:29:58E,256.0M,T,BASLE/MULHOUSE,Navaid|ID:BLM|Frequency:117.45/|Range:60 NM |Magnetic declination:1.40285|Aligned to true north:FALSE
+15,42:34:25N,09:28:29E,2.0M,T,BASTIA PORETTA,Navaid|ID:BTA|Frequency:114.15/88Y|Range:80 NM |Magnetic declination:2.05495|Aligned to true north:FALSE
+16,43:28:00N,01:30:37W,70.0M,T,BIARRITZ BAYONNE ANGLET,Navaid|ID:BTZ|Frequency:114.15/88Y|Range:60 NM |Magnetic declination:-0.76625|Aligned to true north:FALSE
+17,44:49:37N,00:43:16W,49.0M,T,BORDEAUX MERIGNAC,Navaid|ID:BMC|Frequency:113.75/84Y|Range:100 NM |Magnetic declination:-0.62189|Aligned to true north:FALSE
+18,50:37:29N,01:54:26E,168.0M,T,BOULOGNE SUR MER,Navaid|ID:BNE|Frequency:113.8/|Range:70 NM |Magnetic declination:-0.27113|Aligned to true north:FALSE
+19,49:11:18N,03:03:24E,146.0M,T,BOURSONNE,Navaid|ID:BSN|Frequency:114.85/95Y|Range:60 NM |Magnetic declination:0.2179|Aligned to true north:FALSE
+20,48:24:25N,03:17:41E,78.0M,T,BRAY SUR SEINE,Navaid|ID:BRY|Frequency:114.1/88X|Range:60 NM |Magnetic declination:0.3416|Aligned to true north:FALSE
+21,48:28:39N,04:17:08W,111.0M,T,BREST BRETAGNE,Navaid|ID:GU|Frequency:338/|Range:25 NM |Magnetic declination:-3|Aligned to true north:FALSE
+22,48:26:40N,04:24:59W,93.0M,T,BREST BRETAGNE,Navaid|ID:BGP|Frequency:387/|Range:25 NM |Magnetic declination:-3|Aligned to true north:FALSE
+23,49:10:24N,00:27:19W,74.0M,T,CAEN CARPIQUET,Navaid|ID:CAN|Frequency:114.45/|Range:80 NM |Magnetic declination:-0.92415|Aligned to true north:FALSE
+24,42:34:37N,08:48:24E,8.0M,T,CALVI SAINTE CATHERINE,Navaid|ID:CV|Frequency:375/|Range:25 NM |Magnetic declination:1.91392|Aligned to true north:FALSE
+25,50:13:41N,03:09:05E,67.0M,T,CAMBRAI EPINOY,Navaid|ID:CMB|Frequency:112.6/73X|Range:80 NM |Magnetic declination:0.17028|Aligned to true north:FALSE
+26,43:33:37N,06:52:15E,481.0M,T,CANNES TANNERON,Navaid|ID:CNM|Frequency:111.4/|Range:40 NM |Magnetic declination:1.4767|Aligned to true north:FALSE
+27,45:52:55N,05:45:26E,1432.0M,T,CHAMBERY,Navaid|ID:CBY|Frequency:115.4/102Y|Range: NM |Magnetic declination:1.10301|Aligned to true north:FALSE
+28,45:35:32N,05:53:01E,252.0M,T,CHAMBERY AIX LES BAINS,Navaid|ID:CH|Frequency:346/|Range:25 NM |Magnetic declination:1.38149|Aligned to true north:FALSE
+29,48:28:48N,00:59:13E,213.0M,T,CHARTRES LA LOUPE,Navaid|ID:CHW|Frequency:115.2/99X|Range:100 NM |Magnetic declination:-0.38167|Aligned to true north:FALSE
+30,48:03:21N,01:22:31E,126.0M,T,CHATEAUDUN,Navaid|ID:CHN|Frequency:/39X|Range:40 NM |Magnetic declination:-0.22306|Aligned to true north:FALSE
+31,48:03:33N,01:23:13E,126.0M,T,CHATEAUDUN,Navaid|ID:CAD|Frequency:115.95/106Y|Range:80 NM |Magnetic declination:-0.21992|Aligned to true north:FALSE
+32,48:03:48N,01:21:49E,130.0M,T,CHATEAUDUN,Navaid|ID:CDN|Frequency:359.5/|Range:50 NM |Magnetic declination:-0.22934|Aligned to true north:FALSE
+33,46:56:12N,01:48:04E,165.0M,T,CHATEAUROUX DEOLS,Navaid|ID:CTX|Frequency:428/|Range:50 NM |Magnetic declination:-0.01078|Aligned to true north:FALSE
+34,49:08:16N,03:34:40E,195.0M,T,CHATILLON SUR MARNE,Navaid|ID:CTL|Frequency:117.6/123X|Range:70 NM |Magnetic declination:0.38442|Aligned to true north:FALSE
+35,45:47:15N,03:11:32E,321.0M,T,CLERMONT FERRAND AUVERGNE,Navaid|ID:CFA|Frequency:114.35/90Y|Range:100 NM |Magnetic declination:0.46249|Aligned to true north:FALSE
+36,45:39:34N,00:18:42W,25.0M,T,COGNAC CHATEAUBERNARD,Navaid|ID:CNA|Frequency:114.65/93Y|Range:100 NM |Magnetic declination:-0.55744|Aligned to true north:FALSE
+37,45:40:10N,00:18:22W,33.0M,T,COGNAC CHATEAUBERNARD,Navaid|ID:CGC|Frequency:354/|Range:75 NM |Magnetic declination:-0.5582|Aligned to true north:FALSE
+38,45:39:41N,00:18:28W,28.0M,T,COGNAC CHATEAUBERNARD,Navaid|ID:CGC|Frequency:/109X|Range:160 NM |Magnetic declination:-0.55744|Aligned to true north:FALSE
+39,48:50:41N,03:00:50E,139.0M,T,COULOMMIERS VOISINS,Navaid|ID:CLM|Frequency:112.9/76X|Range:60 NM |Magnetic declination:0.22945|Aligned to true north:FALSE
+40,49:18:39N,00:18:46E,145.0M,T,DEAUVILLE NORMANDIE,Navaid|ID:DVL|Frequency:110.2/|Range:60 NM |Magnetic declination:-0.67814|Aligned to true north:FALSE
+41,49:55:31N,01:10:14E,104.0M,T,DIEPPE,Navaid|ID:DPE|Frequency:115.8/|Range:40 NM |Magnetic declination:-0.45175|Aligned to true north:FALSE
+42,43:59:29N,06:06:03E,913.0M,T,DIGNE,Navaid|ID:DGN|Frequency:113.85/|Range:90 NM |Magnetic declination:1.28828|Aligned to true north:FALSE
+43,47:16:19N,05:05:30E,216.0M,T,DIJON-LONGVIC,Navaid|ID:DIJ|Frequency:/82X|Range:60 NM |Magnetic declination:0.93049|Aligned to true north:FALSE
+44,48:35:10N,02:04:56W,63.0M,T,DINARD PLEURTUIT SAINT MALO,Navaid|ID:DIN|Frequency:114.300/90X|Range:80 NM |Magnetic declination:-2|Aligned to true north:FALSE
+45,48:28:55N,02:03:10W,62.0M,T,DINARD PLEURTUIT SAINT MALO,Navaid|ID:DR|Frequency:390/|Range:25 NM |Magnetic declination:-2|Aligned to true north:FALSE
+46,48:37:33N,01:39:24E,158.0M,T,EPERNON,Navaid|ID:EPR|Frequency:115.65/103Y|Range:60 NM |Magnetic declination:-0.17835|Aligned to true north:FALSE
+47,48:19:04N,06:03:34E,343.0M,T,EPINAL MIRECOURT,Navaid|ID:EPL|Frequency:113/|Range:60 NM |Magnetic declination:1.16441|Aligned to true north:FALSE
+48,49:01:43N,01:12:51E,136.0M,T,EVREUX FAUVILLE,Navaid|ID:EVX|Frequency:/71X|Range: NM |Magnetic declination:-0.35649|Aligned to true north:FALSE
+49,49:01:43N,01:12:51E,136.0M,T,EVREUX FAUVILLE,Navaid|ID:EVX|Frequency:112.4/71X|Range:60 NM |Magnetic declination:-0.35649|Aligned to true north:FALSE
+50,43:57:15N,01:49:27E,295.0M,T,GAILLAC-CASTELNAU DE MONTMIRAIL,Navaid|ID:GAI|Frequency:115.8/|Range:100 NM |Magnetic declination:0.17109|Aligned to true north:FALSE
+51,48:59:11N,06:42:58E,309.0M,T,GROSTENQUIN,Navaid|ID:GTQ|Frequency:111.25/49Y|Range:60 NM |Magnetic declination:1.33061|Aligned to true north:FALSE
+52,48:09:36N,03:36:09W,227.0M,T,GUISCRIFF SCAER,Navaid|ID:GSG|Frequency:395/|Range:25 NM |Magnetic declination:-3|Aligned to true north:FALSE
+53,47:33:42N,06:43:56E,399.0M,T,HERICOURT,Navaid|ID:HR|Frequency:289/|Range:30 NM |Magnetic declination:1.37482|Aligned to true north:FALSE
+54,43:30:01N,04:56:24E,15.0M,T,ISTRES LE TUBE,Navaid|ID:ITS|Frequency:112.700/74X|Range: NM |Magnetic declination:1|Aligned to true north:FALSE
+55,48:47:26N,00:31:49E,290.0M,T,L'AIGLE,Navaid|ID:LGL|Frequency:115.000/|Range: NM |Magnetic declination:-2|Aligned to true north:FALSE
+56,46:41:29N,02:08:58E,269.0M,T,LA CHATRE,Navaid|ID:LCA|Frequency:112.1/|Range: NM |Magnetic declination:0.3783|Aligned to true north:FALSE
+57,48:43:09N,03:18:28W,71.0M,T,LANNION,Navaid|ID:LN|Frequency:345/|Range:50 NM |Magnetic declination:-3|Aligned to true north:FALSE
+58,48:17:01N,04:25:56W,76.0M,T,LANVEOC POULMIC,Navaid|ID:BST|Frequency:428/|Range:50 NM |Magnetic declination:-3|Aligned to true north:FALSE
+59,46:41:21N,01:17:11W,93.0M,T,LA ROCHE SUR YON LES AJONCS,Navaid|ID:YN|Frequency:334/|Range: NM |Magnetic declination:-1|Aligned to true north:FALSE
+60,45:29:20N,05:26:21E,641.0M,T,LA TOUR DU PIN,Navaid|ID:LTP|Frequency:115.55/|Range: NM |Magnetic declination:1.0302|Aligned to true north:FALSE
+61,43:22:58N,06:15:21E,303.0M,T,LE LUC LE CANNET,Navaid|ID:LUC|Frequency:113.0/77X|Range: NM |Magnetic declination:1|Aligned to true north:FALSE
+62,43:28:00N,00:01:06W,293.0M,T,LEMBEYE,Navaid|ID:LMB|Frequency:111.8/|Range: NM |Magnetic declination:-1|Aligned to true north:FALSE
+63,43:28:00N,00:01:06W,293.0M,T,LILLE LESQUIN,Navaid|ID:LEQ|Frequency:109.0/27X|Range: NM |Magnetic declination:-0.06258|Aligned to true north:FALSE
+64,45:48:57N,01:01:32E,417.0M,T,LIMOGES,Navaid|ID:LMG|Frequency:114.5/92X|Range: NM |Magnetic declination:-1|Aligned to true north:FALSE
+65,47:45:47N,03:26:26W,44.0M,T,LORIENT LANN BIHOUE,Navaid|ID:LOR|Frequency:359/|Range:50 NM |Magnetic declination:-2|Aligned to true north:FALSE
+66,47:41:18N,06:17:44E,316.0M,T,LUXEUIL,Navaid|ID:LUL|Frequency:117.1/|Range: NM |Magnetic declination:1|Aligned to true north:FALSE
+67,45:44:44N,05:05:26E,234.0M,T,LYON SAINT EXUPERY,Navaid|ID:LSE|Frequency:114.75/94Y|Range: NM |Magnetic declination:1.22442|Aligned to true north:FALSE
+68,48:27:21N,02:48:48E,102.0M,T,MELUN,Navaid|ID:MLN|Frequency:113.6/83X|Range:40 NM |Magnetic declination:0.23263|Aligned to true north:FALSE
+69,49:23:28N,05:23:29E,190.0M,T,MONTMEDY-DUN SUR MEUSE,Navaid|ID:MMD|Frequency:109.4/|Range:40 NM |Magnetic declination:1.12985|Aligned to true north:FALSE
+70,48:38:48N,03:45:46W,120.0M,T,MORLAIX PLOUJEAN,Navaid|ID:MLX|Frequency:371/|Range:25 NM |Magnetic declination:-3|Aligned to true north:FALSE
+71,47:03:10N,01:41:16W,1.0M,T,NANTES ATLANTIQUE,Navaid|ID:GL|Frequency:369/|Range:25 NM |Magnetic declination:-1|Aligned to true north:FALSE
+72,47:09:39N,01:36:46W,25.0M,T,NANTES ATLANTIQUE,Navaid|ID:NTS|Frequency:115.500/102X|Range:150 NM |Magnetic declination:-1|Aligned to true north:FALSE
+73,48:09:20N,02:15:53E,121.0M,T,PITHIVIERS,Navaid|ID:PTV|Frequency:116.5/|Range:100 NM |Magnetic declination:0.08418|Aligned to true north:FALSE
+74,49:06:20N,02:02:45E,95.0M,T,PONTOISE,Navaid|ID:PON|Frequency:111.6/|Range: NM |Magnetic declination:0.135|Aligned to true north:FALSE
+75,47:57:26N,04:11:05W,84.0M,T,QUIMPER PLUGUFFAN,Navaid|ID:QPR|Frequency:117.800/125X|Range:150 NM |Magnetic declination:-3|Aligned to true north:FALSE
+76,47:58:05N,03:59:54W,101.0M,T,QUIMPER PLUGUFFAN,Navaid|ID:RQ|Frequency:380/|Range:25 NM |Magnetic declination:-3|Aligned to true north:FALSE
+77,47:58:05N,03:59:54W,101.0M,T,QUIMPER PLUGUFFAN,Navaid|ID:RQ|Frequency:380/|Range:25 NM |Magnetic declination:-3|Aligned to true north:FALSE
+78,48:03:11N,01:35:04W,55.0M,T,RENNES SAINT JACQUES,Navaid|ID:RS|Frequency:349/|Range:25 NM |Magnetic declination:-2|Aligned to true north:FALSE
+79,48:04:09N,01:44:30W,30.0M,T,RENNES SAINT JACQUES,Navaid|ID:REN|Frequency:109.250/29Y|Range:150 NM |Magnetic declination:-2|Aligned to true north:FALSE
+80,48:34:03N,02:46:57W,67.0M,T,SAINT BRIEUC ARMOR,Navaid|ID:SB|Frequency:353/|Range:35 NM |Magnetic declination:-2|Aligned to true north:FALSE
+81,45:44:44N,05:05:26E,234.0M,T,SAINT EXUPERY,Navaid|ID:LSE|Frequency:114.75/|Range: NM |Magnetic declination:0.92899|Aligned to true north:FALSE
+82,47:20:01N,02:02:40W,2.0M,T,SAINT NAZAIRE MONTOIR,Navaid|ID:MT|Frequency:398/|Range:50 NM |Magnetic declination:-1|Aligned to true north:FALSE
+83,47:46:09N,02:39:41W,75.0M,T,VANNES MEUCON,Navaid|ID:VA|Frequency:342/|Range:25 NM |Magnetic declination:-1|Aligned to true north:FALSE
