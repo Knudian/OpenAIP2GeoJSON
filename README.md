@@ -19,6 +19,7 @@ npm install
 ```
 Then run it with
 ```bash
+cd OpenAIP2GeoJSON/
 node index.js
 ```
 
