@@ -2,7 +2,6 @@
 var xml2js		= require('xml2js'),
 	fs			= require('fs'),
 	colors		= require('colors/safe'),
-	request		= require('request'),
 	Q			= require('q'),
 	GeoJSON		= require('geojson');
 // Declare global vars

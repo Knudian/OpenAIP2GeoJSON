@@ -221,5 +221,14 @@ Even if not in used at the moment, a **guid** property is given for each geograp
 }
 ```
 
+## Dependencies
+
+This parser uses :
+- [colors](https://www.npmjs.com/package/colors),
+- [fs](https://www.npmjs.com/package/fs),
+- [geojson](https://www.npmjs.com/package/geojson),
+- [q](https://www.npmjs.com/package/q),
+- [xml2js](https://www.npmjs.com/package/xml2js),
+
 ## Disclaimer
 Since this little parser is just a parser, and is not providing any datas - examples are just examples, don't trust those -, the datas are not qualified to be use instead of official sources (following aeronautical rules, you must have datas provided officially).
