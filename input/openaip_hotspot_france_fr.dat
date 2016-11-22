@@ -1,0 +1,59 @@
+***
+*
+*  Exported on: 18.11.2016
+*  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
+*  not to be used for commercial purposes. For more information on commercial licensing visit
+*  
+*  http://www.openaip.net/commercial-licensing
+*  
+*  openAIP data is not certified and must not be used for primary navigation or flight planning.
+*  NEVER RELY ON OPENAIP DATA. openAIP data contains errors. Using openAIP data may
+*  result in serious injury or death, use at your own risk!
+*  
+*  OPENAIP OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND
+*  CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION,
+*  WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR
+*  THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS,
+*  WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED
+*  WARRANTIES, SO THIS EXCLUSION MAY NOT APPLY TO YOU.
+*  
+*  EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL OPENAIP BE LIABLE TO YOU ON
+*  ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES
+*  ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF OPENAIP HAS BEEN ADVISED OF THE
+*  POSSIBILITY OF SUCH DAMAGES.
+*
+***
+
+**************************
+*
+* OPENAIP HOTSPOTS EXPORT
+*
+* VERSION= 1327395
+*
+**************************
+1,43:58:08N,06:14:52E,1573.0M,T,Beynes,Hotspot|Reliability 65%|irregular interval
+2,44:10:36N,06:28:10E,1932.0M,T,Carton,Hotspot|Reliability 65%|irregular interval
+3,44:20:17N,06:39:40E,2535.0M,T,Chapeau de Gendarme,Hotspot|Reliability 65%|irregular interval
+4,44:07:11N,06:25:17E,2239.0M,T,Cheval Blanc,Hotspot|Reliability 65%|irregular interval
+5,44:01:37N,06:19:01E,1555.0M,T,Coupe,Hotspot|Reliability 65%|irregular interval
+6,44:11:37N,06:17:40E,1424.0M,T,Crête de Leman (Bleyeul),Hotspot|Reliability 65%|irregular interval
+7,43:57:45N,06:33:23E,1620.0M,T,Crête de Serres,Hotspot|Reliability 65%|irregular interval
+8,43:50:40N,06:36:07E,1869.0M,T,Crête du Teillon,Hotspot|Reliability 65%|irregular interval
+9,44:56:30N,06:38:38E,2609.0M,T,Crêtes de Peyrolle,Hotspot|Reliability 65%|irregular interval
+10,44:24:34N,06:23:01E,2410.0M,T,Dormillouse,Hotspot|Reliability 65%|irregular interval
+11,44:26:06N,06:39:14E,2746.0M,T,Grand Bérard,Hotspot|Reliability 65%|irregular interval
+12,44:17:25N,06:38:15E,2762.0M,T,Grand Cheval de Bois,Hotspot|Reliability 65%|irregular interval
+13,43:48:03N,06:57:56E,1000.0M,T,Gréolières,Hotspot|Reliability 65%|nearly constant
+14,46:07:42N,06:34:24E,1980.0M,T,Marcelly,Hotspot|Reliability 65%|irregular interval
+15,43:53:56N,06:15:09E,1667.0M,T,Montdenier,Hotspot|Reliability 65%|irregular interval
+16,44:35:14N,06:25:57E,2478.0M,T,Mont Guillaume,Hotspot|Reliability 65%|irregular interval
+17,44:29:12N,06:23:57E,1961.0M,T,Morgon,Hotspot|Reliability 65%|irregular interval
+18,44:15:03N,06:23:53E,1978.0M,T,Mte. de la Grisonnière,Hotspot|Reliability 65%|irregular interval
+19,45:33:02N,05:59:48E,700.0M,T,Pente de la chapelle (Challes),Hotspot|Reliability 65%|nearly constant
+20,44:41:43N,06:39:45E,2176.0M,T,Prachaval,Hotspot|Reliability 65%|scheduled interval
+21,44:13:03N,06:39:42E,2335.0M,T,Simmonet des Graux,Hotspot|Reliability 65%|irregular interval
+22,44:51:07N,06:32:02E,2758.0M,T,Tête d'Amont,Hotspot|Reliability 65%|irregular interval
+23,44:36:37N,06:23:09E,2598.0M,T,Tête de Lucy,Hotspot|Reliability 65%|irregular interval
+24,44:26:09N,06:46:20E,2558.0M,T,Tête de Siguret,Hotspot|Reliability 65%|irregular interval
+25,44:46:25N,06:37:06E,2520.0M,T,Tête du Peyron,Hotspot|Reliability 65%|scheduled interval
+26,44:11:55N,06:29:43E,1919.0M,T,Vachière,Hotspot|Reliability 65%|irregular interval
